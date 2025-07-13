@@ -16,7 +16,7 @@ This tool helps in identifying defective semiconductor wafers via a visual inter
 
 ## 📸 Demo
 
-👉 [Click here to try the app on Streamlit Cloud](https://intelai-final-project-ccnxvpdnby8sislsn7h8rd.streamlit.app/#semiconductor-wafer-pass-fail-prediction)
+👉 [Click here to try the app on Streamlit Cloud](https://pass-fail-semiconducter-5lod57n9uye9mtxidbfapppp.streamlit.app/)
 
 ---
 
@@ -70,21 +70,6 @@ wafer-pass-fail-app/
 ├── runtime.txt # Python version for Streamlit Cloud
 
 └── README.md # Project overview
-
----
-
-### 👨‍💻 Developed By
-
-- Komal Makwana  
-- Jatin Kamani  
-- Abhi Shobhasana  
-- Kevanshi Mungra  
-- Apeksha Vekariya  
-
-**B.H. Gardi College of Engineering and Technology**  
-**Semester 6 | Date: 27-Apr-2025**
-
----
 
 
 
